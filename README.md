@@ -91,8 +91,6 @@ O projeto conta com um **relatório técnico**, que descreve todas as etapas do 
 │    ├── 📄 regras_apriori_cluster_0.xlsx
 │    ├── 📄 regras_apriori_cluster_1.xlsx
 │    ├── 📄 regras_apriori_cluster_2.xlsx
-│    ├── 📄 regras_apriori_cluster_3.xlsx
-│    ├── 📄 regras_apriori_cluster_4.xlsx
 │    ├── 📄 score_produtos_por_aisle_cluster_0.xlsx
 │    ├── 📄 score_produtos_por_aisle_cluster_1.xlsx
 │    ├── 📄 score_produtos_por_aisle_cluster_2.xlsx
