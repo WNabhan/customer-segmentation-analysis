@@ -18,7 +18,7 @@ Utilizar técnicas de **mineração de dados** e **aprendizado de máquina** com
 
 Os dados utilizados neste projeto são adaptados de um repositório disponível no Kaggle (https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis), com a finalidade de simular transações de compras online em um supermercado. .
 
-A base utilizada simula transações reais de um supermercado online e contém mais de **400 mil pedidos** feitos por **30 mil usuários**.
+A base utilizada simula transações de um supermercado online e contém mais de **400 mil pedidos** feitos por **30 mil usuários**.
 
 Os metadados detalhados dos arquivos de dados podem ser consultados na seção [Dicionário de Dados](data_dictionary.md).
 
@@ -55,7 +55,7 @@ Os metadados detalhados dos arquivos de dados podem ser consultados na seção [
 
 ## Relatório Técnico
 
-O projeto conta com um **relatório técnico escrito**, que descreve todas as etapas do estudo de forma aprofundada, incluindo:
+O projeto conta com um **relatório técnico escrito**, que descreve todas as etapas do estudo.
 
 📄 Acesse aqui: [Segmentação de Clientes com Machine Learning.pdf](Segmentação%20de%20Clientes%20com%20Machine%20Learning.pdf)
 
