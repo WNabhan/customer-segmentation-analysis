@@ -55,7 +55,7 @@ Os metadados detalhados dos arquivos de dados podem ser consultados na seção [
 
 ## Relatório Técnico
 
-O projeto conta com um **relatório técnico escrito**, que descreve todas as etapas do estudo.
+O projeto conta com um **relatório técnico**, que descreve todas as etapas do estudo.
 
 📄 Acesse aqui: [Segmentação de Clientes com Machine Learning.pdf](Segmentação%20de%20Clientes%20com%20Machine%20Learning.pdf)
 
