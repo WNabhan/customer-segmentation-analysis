@@ -1,0 +1,6 @@
+Copyright © 2025 William Nabhan Filho
+
+Este projeto de ciência de dados, incluindo códigos, análises, visualizações e modelos, é protegido por direitos autorais.  
+É proibida a cópia, distribuição, modificação ou uso comercial sem permissão por escrito do autor.
+
+Todos os direitos reservados.
